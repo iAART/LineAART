@@ -1,7 +1,7 @@
- # Multi-frequency Models for AART
-This repository is an extended version of AART, a full detailed description of which is at https://github.com/iAART/LineAART.
+ # LineAART
+This repository is an extended version of AART, a full detailed description of which is at https://github.com/iAART/aart.
 
-These modifications focus on various physical parameters affecting the AART emission profile behavior. The simulation includes calculations of temperature, density, magnetic fields, and specific intensity, tailored for astrophysical contexts.
+This code computes a high-resolution relativistically broadened line emission from equatorial disks around a Kerr black hole.
 
 ## Table of Contents
 
